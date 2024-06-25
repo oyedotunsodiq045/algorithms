@@ -82,7 +82,7 @@ public class ArrayListImpl {
         System.out.println("Sorted Animals : " + animals);
         System.out.println(" ");
 
-        // Remove all animals frm animals
+        // Remove all animals
         animals.clear();
         System.out.println("Removed all animals: " + animals);
 
