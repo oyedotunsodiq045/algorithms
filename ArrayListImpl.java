@@ -7,7 +7,7 @@ public class ArrayListImpl {
         // Create an ArrayList object
         List<String> animals = new ArrayList<>();
 
-        // Insertion: Insert animals into listOne
+        // Insertion: Insert element into animals
         animals.add("Alligator");
         animals.add("Baboon");
         animals.add("Camel");
