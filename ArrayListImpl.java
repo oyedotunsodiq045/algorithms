@@ -1,3 +1,13 @@
+/**
+ * ArrayList
+ *
+ * Algorithms
+ *
+ * @author 		Sodiq Oyedotun
+ * @date 		06/26/2024
+ * @copyright © 2024 Sodiq Oyedotun. All rights reserved
+ *
+ */
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
